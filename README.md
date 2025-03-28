@@ -13,4 +13,4 @@ Run the script:python main.py
 Sample Outputs
 Prompt: A cityscape 20 years from now with advanced technology
 output:[{'generated_text': "How will A cityscape 20 years from now with advanced technology look in the future ? It's all about the design.\n\nIf you're one of the hundreds of tens of millions of people who haven't yet become educated in a way that enables"}]
-image:
+image:https://github.com/Z0320K/huggingface-image-gen/blob/main/samples.png
